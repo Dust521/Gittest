@@ -13,9 +13,8 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World!");
         
-        
-        
-       // dadfd
+        //I am from desktop!
+
     }
     return 0;
 }
