@@ -50,3 +50,4 @@ ffffffff
 
 kdaldjfadf
 
+rm ha.m
